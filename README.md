@@ -8,4 +8,4 @@ The cube object itself is a LinkedList<CornerPiece> cornerpieces, with rotationa
 The modules are still open(are subjectivwe to change in the future), and most of the classes and methods are public.
 The Modular understandability of this program is being rendered by the comments, as the rotational, and RNG methods are still very new and unusual.
 The group.id of the project is com.moderneinstein.core.cube;
-This will sereve as a starting point for more projects to come.
+This will serve as a starting point for more projects to come.
